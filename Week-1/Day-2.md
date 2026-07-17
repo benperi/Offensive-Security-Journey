@@ -1,4 +1,4 @@
-# Horisontal And Verrtical Privilege Escalation
+# Horizontal And Vertical Privilege Escalation
 
 ## Objetives
 + Understand the concept of Access control and how it's vulnurabilities an be exploited.
