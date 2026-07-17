@@ -24,7 +24,7 @@ I proceeded to run a quick intercept test, then fowarded it. I learnt what the r
 
 
 ## Conclusion
-    I Sucessfully installed burp suite, learned how to link it to my browser. I unexpectedly learned something new about how cirtificates work while trying to debog a problem. I familiarised myself with the interface and got ready to actually start using burp the next day
+I Sucessfully installed burp suite, learned how to link it to my browser. I unexpectedly learned something new about how cirtificates work while trying to debog a problem. I familiarised myself with the interface and got ready to actually start using burp the next day
 
 
 
