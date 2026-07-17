@@ -1,0 +1,16 @@
+# HTTP And Paameter Mapping
+
+## Objectives
+- Get faminliar with BurpSuit UI.
+- learn how to link browser to burp or use the burp browser.
+- Lern to use the intercept and repeater.
+
+##LOGS
+
+I watched an installation guide to help me install BurpSuit properly. Aftee that, I watched a quick beginer guide to familiarise myself with the UI.
+I proceeded to follow a youtube guide on how to use Proxy to monitor my traffic using BurpSuit.
+I proceeded to run a quick intercept test, then fowarded it. I learnt what the repeater was used for.
+
+##Challenges and workarounds
+
+

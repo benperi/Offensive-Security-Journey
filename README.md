@@ -9,10 +9,14 @@ Every entry in this repository represents a 3-hour deep work block divided into 
 3. **Defensive Documentation (45 Mins):** Drafting structural walkthroughs and writing secure remediation controls.
 
 ## 🗓️ Progress Dashboard
-- [ ] **Week 1: Broken Access Control & IDORs**
-  - [ ] Day 1: HTTP & Parameter Mapping
-  - [ ] Day 2: Horizontal vs. Vertical Privilege Escalation
-  - [ ] Day 3: Identifying & Exploiting Basic IDORs
+- [x] **Week 1: Broken Access Control & IDORs**
+  - [x] Day 1: HTTP & Parameter Mapping
+  - [x] Day 2: Horizontal vs. Vertical Privilege Escalation
+  - [x] Day 3: Identifying & Exploiting Basic IDORs
+  - [x] Day 4: Mass Assignment & Parameter Pollution
+  - [x] Day 5: Bypassing Flawed Access Controls
+  - [x] Day 6: Automated IDOR Hunting (Burp Match & Replace / Autorize)
+  - [x] Day 7: Remediation & Portfolio Consolidation
 - [ ] **Week 2: Cross-Site Scripting (XSS)**
 - [ ] **Week 3: SQL Injection (SQLi)**
 - [ ] **Week 4: Business Logic Vulnerabilities**
