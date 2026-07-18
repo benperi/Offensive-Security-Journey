@@ -47,12 +47,12 @@ The following parameters were audited and validated across practice sandbox envi
 
 | Target Vector Path | Vulnerability Type Identified | Successful Bypass Payload |
 |:---|:---|:---|
-| `/api/checkout` | Mass Assignment | Injected hidden parameter chosen_discount into POST body |
+| `/api/checkout` | Mass Assignment | Injected hidden parameter `discount` into ***POST** body |
 | `./admin` | Proxy Access Bypass | Injected custom routing header `X-Original-URL: /admin` to bypass perimeter gateway |
 | `./user/account` | IDOR | Fuzzed direct tracking integers via Burp Suite. |
 
 ## 4. Verification Checklist for Developers
 Before code promotion to staging or production environments, verify the following conditions are satisfied:
-- [] Is access control implemented server-side per-endpoint rather than relying on front-end user interface design constraints?
-- [] Are all target resource indicators utilizing random, non-sequential identifier strings?
-- [] Do automated unit tests explicitly simulate unauthorized session profiles attempting to call restricted API pathways?
+- [ ] Is access control implemented server-side per-endpoint rather than relying on front-end user interface design constraints?
+- [ ] Are all target resource indicators utilizing random, non-sequential identifier strings?
+- [ ] Do automated unit tests explicitly simulate unauthorized session profiles attempting to call restricted API pathways?
