@@ -15,7 +15,7 @@ Every entry in this repository represents a 3-hour deep work block divided into 
   - [x] Day 3: Identifying & Exploiting Basic IDORs
   - [x] Day 4: Mass Assignment & Parameter Pollution
   - [x] Day 5: Bypassing Flawed Access Controls
-  - [x] Day 6: Automated IDOR Hunting (Burp Match & Replace / Autorize)
+  - [x] Day 6: User role controlled by request parameter
   - [x] Day 7: Remediation & Portfolio Consolidation
 - [ ] **Week 2: Cross-Site Scripting (XSS)**
 - [ ] **Week 3: SQL Injection (SQLi)**
